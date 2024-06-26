@@ -686,6 +686,7 @@ footer .copyright p {
 }
 
 .career {
+  background-color:#c8a27e;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
